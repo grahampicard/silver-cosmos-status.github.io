@@ -1,14 +1,14 @@
 # 660 project
-## team
+## Team
 - silver-cosmos
 
-## contact
+## Contact
 - Daniel Csonth (daniel.csonth@yale.edu)
 - Graham Picard (graham.picard@yale.edu)
 - Kevin Shankar (kevin.shankar@yale.edu)
 - Chenyu Si (chenyu.si@yale.edu)
 
-## status reports
+## Sprint status reports
 - [2019-11-01](2019-11-01.md)
 - 2019-11-07
 - 2019-11-14
